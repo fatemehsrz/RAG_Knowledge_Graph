@@ -11,12 +11,14 @@ Constructing a knowledge graph is typically the most challenging step in leverag
 **Llama-Index and LangChain Comparison:**
 
 
-|Name|Description| |
+|Model Name|Query| Answer|
 |---|---|---|
-|optional| | |
-|optional| | |
-|optional| | |
-|optional| | |
+|LlamaIndex| `What is Cybertruck?` | |
+|LangChain | `What is Cybertruck?` | |
+|LlamaIndex| | |
+|LangChain | | |
+|LlamaIndex| | |
+|LangChain | | |
 
 
 
