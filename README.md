@@ -10,14 +10,15 @@ Constructing a knowledge graph is typically the most challenging step in leverag
  
 **Llama-Index and LangChain Comparison:**
 
-| Model | Query | Answer!
-| LlamaIndex | `What is Cybertruck?`| |
-| Langchain | `What is Cybertruck?`| `Cybertruck is a concept car manufactured by Tesla, Inc. It was introduced in November 2019 and is part of the Tesla Master Plan. It is an alternative to fossil-fuel-powered trucks and competes with the Ford F-150. The Cybertruck is equipped with armor glass and can carry the Tesla Cyberquad. It has been exhibited at the Petersen Automotive Museum and was awarded Concept Car Of The Year by Automobile Magazine.
+| Model | Query | Answer|
+| --- | --- |
+| LlamaIndex | `What is Cybertruck?`| `gggg`|
+| Langchain | `What is Cybertruck?`| `gggg`
 ` |
-| LlamaIndex | `Who is Elon Musk?`| |
-| Langchain | `Who is Elon Musk?`|  |
-| LlamaIndex | `How powerful is the CyberTruck?`| |
-| Langchain |`How powerful is the CyberTruck?` |  |
+| LlamaIndex | `Who is Elon Musk?`| `gggg`|
+| Langchain | `Who is Elon Musk?`|  `gggg`|
+| LlamaIndex | `How powerful is the CyberTruck?`| `gggg`|
+| Langchain |`How powerful is the CyberTruck?` | `gggg` |
  
 
 
