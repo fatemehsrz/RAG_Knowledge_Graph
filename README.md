@@ -20,7 +20,6 @@ Constructing a knowledge graph is typically the most challenging step in leverag
 |LlamaIndex| `How powerful is the Cybertruck?`| `The Cybertruck comes in three configurations: tri-motor AWD, dual-motor AWD, and single-motor RWD. The tri-motor AWD version offers a maximum combined output of 845 hp (630 kW) in Beast Mode, split as 276 hp (206 kW) for the front motor and 284 hp (212 kW) for each rear motor. The dual-motor AWD version has a total power output of 600 hp (450 kW), with an induction motor on the front axle with a maximum output of 303 hp (226 kW) and a permanent magnet motor on the rear axle with a maximum output of 297 hp (221 kW). The single-motor RWD version has a power output of 315 hp (235 kW).` |
 |LangChain | `How powerful is the Cybertruck?`| `The text does not provide information on how powerful the Cybertruck is.` |
 
-|
  
 
 
