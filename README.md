@@ -12,6 +12,9 @@ Constructing a knowledge graph is typically the most challenging step in leverag
 
 - Context from Wikipedia on [Cybertruck](https://en.wikipedia.org/wiki/Tesla_Cybertruck)
 
+<br />
+<br />
+
 
 |Model|Query| Answer|
 |---|---|---|
