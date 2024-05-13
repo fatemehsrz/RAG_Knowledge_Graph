@@ -10,6 +10,8 @@ Constructing a knowledge graph is typically the most challenging step in leverag
  
 ## Llama-Index and LangChain Comparison:
 
+- Context from Wikipedia on [Cybertruck](https://en.wikipedia.org/wiki/Tesla_Cybertruck)
+
 
 |Model|Query| Answer|
 |---|---|---|
