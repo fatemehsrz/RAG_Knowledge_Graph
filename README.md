@@ -10,7 +10,7 @@ Constructing a knowledge graph is typically the most challenging step in leverag
  
 ## Llama-Index and LangChain Comparison:
 
-
+<br>
 |Model|Query| Answer|
 |---|---|---|
 |LlamaIndex| `What is Cybertruck?` | `Cybertruck is a vehicle developed by Tesla that uses a platform approach to powertrain components, including a single permanent magnet motor rotor/stator design, a single induction motor rotor/stator design, a single motor inverter design, and a single gear set design. It comes in three configurations: tri-motor AWD, dual-motor AWD, and single-motor RWD, with power ranging from 845 hp (630 kW) on the tri-motor down to 315 hp (235 kW) in the single-motor version. The windows use borosilicate glass, and the vehicle has raised safety concerns due to its angular design and stiff stainless-steel exterior. Cybertruck production began in Gigafactory Texas in Austin, Texas, with pre-production models in July 2023, and serial production had begun by November 2023. As of December 2023, Tesla confirmed that the Cybertruck will be available exclusively in the United States, Canada, and Mexico, with no plans for release in other global markets, including Europe and Australia.`|
