@@ -8,7 +8,7 @@ Constructing a knowledge graph is typically the most challenging step in leverag
  1) [Llama-Index with Nebula Graph](https://github.com/fatemehsrz/RAG_Knowledge_Graph/blob/main/LlamaIndex_KG_Nebula.ipynb) <br>
  2) [LangChain with Neo4j Graph](https://github.com/fatemehsrz/RAG_Knowledge_Graph/blob/main/Langchian_KG_Neo4j.ipynb)
  
-##Llama-Index and LangChain Comparison:
+## Llama-Index and LangChain Comparison:
 
 
 |Model|Query| Answer|
